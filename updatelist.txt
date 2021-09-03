@@ -1,0 +1,14 @@
+PlotTwist	08-22-21
+
+plugins/bloodandmadness/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/pluginpreferences.txt	091
+
+plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	0911
+
+plugins/bloodandmadness/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/carddata.txt	091
+
+plugins/bloodandmadness/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/cardback.jpg	091
+
+plugins/bloodandmadness/rulebook.pdf	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/rulebook.pdf	091
+
+CardGeneralURLs: 
+https://raw.githubusercontent.com/Coraini/PlotTwist/main/
