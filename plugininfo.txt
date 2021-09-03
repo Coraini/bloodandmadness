@@ -4,8 +4,7 @@
 
 <deckzone>
       <label>Deck</label>
- <gamezonetoloadto>Deck</gamezonetoloadto>
-      <shuffle>yes</shuffle>
+       <shuffle>yes</shuffle>
  </deckzone>
 
 <deckzone>
@@ -15,8 +14,12 @@
 
 
 <gamezone>
-      <label>Deck</label>
+      <label>Base Deck</label>
 <isshared>yes</isshared>
+</gamezone>
+
+<gamezone>
+      <label>Deck</label>
 </gamezone>
 
 <gamezone>
