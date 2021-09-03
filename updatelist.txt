@@ -2,7 +2,7 @@ bloodandmadness	09-03-21
 
 plugins/bloodandmadness/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/pluginpreferences.txt	0912
 
-plugins/bloodandmadness/decks/base.dek	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/base.dek 2222
+plugins/bloodandmadness/decks/base.dek	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/base.dek 22222
 
 plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	09144
 
