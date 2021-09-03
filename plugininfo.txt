@@ -1,6 +1,6 @@
 <plugin>
 
-<playerstat><label>Bet Pool</label><initialvalue>30</initialvalue></playerstat>
+<playerstat><label>Bet Pool</label><initialvalue>100</initialvalue></playerstat>
 
 <deckzone>
       <label>Deck</label>
@@ -11,12 +11,6 @@
       <label>Bet Cards</label>
 <gamezonetoloadto>Bet Hand</gamezonetoloadto>
  </deckzone>
-
-
-<gamezone>
-      <label>Base Deck</label>
-<isshared>yes</isshared>
-</gamezone>
 
 <gamezone>
       <label>Deck</label>
@@ -38,8 +32,16 @@
       <visibletoothers>yes</visibletoothers>
  </gamezone>
 
-<generalfunction><label>Draw</label><kind>TRANSFERCARD</kind>
-<sourceowner>performer</sourceowner><sourcegamezone>Deck</sourcegamezone><sourceposition>top</sourceposition><destinationowner>performer</destinationowner><destinationgamezone>Hand</destinationgamezone><destinationposition>top</destinationposition><showasbutton>yes</showasbutton>
+<generalfunction>
+<label>Draw from Deck</label>
+<kind>TRANSFERCARD</kind>
+<includeasbutton>yes</includeasbutton>
+<sourceowner>0</sourceowner>
+<sourcegamezone>Deck</sourcegamezone>
+<sourceposition>top</sourceposition>
+<destinationowner>performer</destinationowner>
+<destinationgamezone>Hand</destinationgamezone>
+<destinationposition>top</destinationposition>
 </generalfunction>
 
 
