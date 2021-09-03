@@ -1,14 +1,16 @@
 bloodandmadness	09-03-21
 
-plugins/bloodandmadness/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/pluginpreferences.txt	091
+plugins/bloodandmadness/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/pluginpreferences.txt	0912
 
-plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	091122
+plugins/bloodandmadness/decks/base.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/base.dek 2222
 
-plugins/bloodandmadness/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/carddata.txt	091
+plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	09144
 
-plugins/bloodandmadness/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/cardback.jpg	091
+plugins/bloodandmadness/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/carddata.txt	09144
 
-plugins/bloodandmadness/rulebook.pdf	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/rulebook.pdf	091
+plugins/bloodandmadness/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/cardback.jpg	09144
+
+plugins/bloodandmadness/rulebook.pdf	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/rulebook.pdf	09144
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/bloodandmadness/main/
