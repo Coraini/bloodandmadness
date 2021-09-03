@@ -2,7 +2,7 @@ bloodandmadness	09-03-21
 
 plugins/bloodandmadness/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/pluginpreferences.txt	091
 
-plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	0911
+plugins/bloodandmadness/plugininfo.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/plugininfo.txt	091122
 
 plugins/bloodandmadness/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/bloodandmadness/main/carddata.txt	091
 
