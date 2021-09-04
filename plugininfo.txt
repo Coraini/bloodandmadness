@@ -42,6 +42,17 @@
 <destinationposition>top</destinationposition>
 </generalfunction>
 
+<generalfunction>
+<label>Draw Faceup</label>
+<kind>TRANSFERCARD</kind>
+<includeasbutton>yes</includeasbutton>
+<sourceowner>0</sourceowner>
+<sourcegamezone>Deck</sourcegamezone>
+<sourceposition>top</sourceposition>
+<destinationowner>table</destinationowner>
+<destinationposition>faceup</destinationposition>
+</generalfunction>
+
 
 <cardfunction><label>+BET</label><kind>ADDCOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>0.45</PositionY></cardfunction>
 <cardfunction><label>-BET</label><kind>REMOVECOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton></cardfunction>
